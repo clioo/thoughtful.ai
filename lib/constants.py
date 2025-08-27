@@ -1,0 +1,4 @@
+class PackageType:
+    STANDARD = "STANDARD"
+    SPECIAL = "SPECIAL"
+    REJECTED = "REJECTED"
